@@ -1,0 +1,19 @@
+{
+  "name": "login-by-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burno28/login-by-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burno28/login-by-token/issues"
+  },
+  "homepage": "https://github.com/burno28/login-by-token#readme"
+}
